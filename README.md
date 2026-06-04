@@ -8,9 +8,9 @@
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ishaq-05889b19b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadishaqmobiz@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://roadtoskardu.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadIshaqSkd)
 
 <br>
 
@@ -64,8 +64,8 @@ Backend Team Lead building **production-grade AI-powered platforms** for enterpr
 **AI & Integration**
 
 ![OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LLM_Integration-000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude_API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_Integration-FF6F00?style=for-the-badge&logo=chainlink&logoColor=white)
 
 **Tools & Practices**
 
@@ -73,21 +73,6 @@ Backend Team Lead building **production-grade AI-powered platforms** for enterpr
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammadIshaqSkd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadIshaqSkd&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-
-<br><br>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIshaqSkd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" />
 
 </div>
 
@@ -115,12 +100,13 @@ Team Leadership     │  Code Review      │  CI/CD Pipelines
 
 <br>
 
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/MuhammadIshaqSkd/MuhammadIshaqSkd/output/snake.svg" alt="Snake animation" />
+<img src="https://komarev.com/ghpvc/?username=MuhammadIshaqSkd&color=6C63FF&style=flat-square&label=Profile+Views" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=MuhammadIshaqSkd&color=6C63FF&style=flat-square&label=Profile+Views" />
+### 🤝 Let's Connect
+
+<a href="https://www.linkedin.com/in/muhammad-ishaq-05889b19b/"><img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
