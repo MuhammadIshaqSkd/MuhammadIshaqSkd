@@ -9,12 +9,12 @@
 <br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ishaq-05889b19b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadishaqmobiz@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadishaqskd224@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-ishaq.gashasolution.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadIshaqSkd)
 
 <br>
 
-<!-- Stats Cards -->
 <img src="https://img.shields.io/badge/Experience-4%2B%20Years-6C63FF?style=flat-square&labelColor=1a1b27"/>
 <img src="https://img.shields.io/badge/Projects-10%2B%20Delivered-6C63FF?style=flat-square&labelColor=1a1b27"/>
 <img src="https://img.shields.io/badge/Role-Team%20Lead-6C63FF?style=flat-square&labelColor=1a1b27"/>
@@ -47,10 +47,13 @@ Backend Team Lead building **production-grade AI-powered platforms** for enterpr
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django Channels](https://img.shields.io/badge/Django_Channels-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
 **Database & ORM**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -59,7 +62,8 @@ Backend Team Lead building **production-grade AI-powered platforms** for enterpr
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **AI & Integration**
 
@@ -67,7 +71,7 @@ Backend Team Lead building **production-grade AI-powered platforms** for enterpr
 ![Anthropic](https://img.shields.io/badge/Claude_API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM_Integration-FF6F00?style=for-the-badge&logo=chainlink&logoColor=white)
 
-**Tools & Practices**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -78,13 +82,16 @@ Backend Team Lead building **production-grade AI-powered platforms** for enterpr
 
 ---
 
-### 🏗️ What I'm Building
+### 🏗️ Notable Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🏔️ **Road to Skardu** | Travel guide for Gilgit-Baltistan | Next.js, FastAPI, PostgreSQL |
-| 🚀 **FastAPI Starter** | Production-grade backend framework (Mobiz IP) | FastAPI, SQLAlchemy, JWT |
-| 🤖 **AI Accelerator** | AI-powered code generation pipeline | FastAPI, Azure OpenAI, SSE |
+| Project | Description |
+|---------|-------------|
+| [**Optimefy**](https://optimefy.cloud/) | SEO automation & content optimization platform — intelligent workflows reducing manual tasks |
+| [**Mereos**](https://mereos.eu/) | Digital education & credentialing platform — validates and certifies skills for remote learning |
+| [**VISU Network**](https://visunetwork.io/) | Decentralized marketing ecosystem with unique reward mechanism for global engagement |
+| [**SparkOn**](https://sparkon.org/) | Community-driven knowledge sharing and collaboration platform |
+| [**BotBlogr**](https://botblogr.com/) | AI-assisted blogging platform — generate, edit, and optimize content with intelligent automation |
+| **Asan Kesan** | Agriculture-focused e-commerce for tool rental and product purchases |
 
 ---
 
@@ -96,6 +103,7 @@ Backend Team Lead building **production-grade AI-powered platforms** for enterpr
 API Architecture    │  Microservices    │  Event Streaming (SSE)
 Database Design     │  JWT/OAuth2 Auth  │  AI/LLM Integration
 Team Leadership     │  Code Review      │  CI/CD Pipelines
+System Design       │  Cloud (Azure/AWS)│  Distributed Systems
 ```
 
 <br>
@@ -106,7 +114,7 @@ Team Leadership     │  Code Review      │  CI/CD Pipelines
 
 ### 🤝 Let's Connect
 
-<a href="https://www.linkedin.com/in/muhammad-ishaq-05889b19b/"><img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-ishaq-05889b19b/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
