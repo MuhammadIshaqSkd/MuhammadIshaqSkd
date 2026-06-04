@@ -31,9 +31,37 @@
 
 ### 🚀 About Me
 
-Senior Python Backend Engineer & Team Lead with **4+ years** building scalable, reliable, and high-performance backend systems. Specialized in **Python frameworks** (Django, FastAPI, Flask) with strong expertise in **cloud technologies** and **AI-powered systems**.
+<table>
+<tr>
+<td>
 
-Currently leading backend architecture for an **AI-powered accelerator** for a major banking client — an end-to-end governed pipeline that transforms business requirements into production-ready code with AI-driven generation, evaluation, and compliance gates.
+```yaml
+name: Muhammad Ishaq
+role: Backend Team Lead
+experience: 4+ years
+location: Islamabad, Pakistan
+education: BSIT — International Islamic University
+current_focus: AI-Powered Enterprise Platforms
+languages: [English, Urdu, Balti]
+```
+
+</td>
+<td>
+
+**What I do:**
+
+🏗️ Design & build scalable backend architectures<br>
+⚡ Real-time systems (SSE, WebSockets, async)<br>
+🤖 AI/LLM integration into production pipelines<br>
+🗃️ Database design & optimization<br>
+🚀 CI/CD automation & cloud deployment<br>
+👥 Lead cross-functional engineering teams
+
+</td>
+</tr>
+</table>
+
+> Currently leading backend architecture for an **AI-powered accelerator** for a major banking client — an end-to-end governed pipeline that transforms business requirements into production-ready code with AI-driven generation, evaluation, and compliance gates.
 
 <details>
 <summary><b>⚡ Key Achievements (click to expand)</b></summary>
