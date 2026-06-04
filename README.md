@@ -179,11 +179,47 @@ Simplifies tool rental and product purchases for farmers, boosting operational e
 
 ### 💼 Experience
 
-```
-🏢 Mobiz IT (Current)          → Backend Team Lead — AI-Powered Enterprise Platforms
-🏢 ConfiaTech (Aug 2023+)      → Sr. Python Django Developer — Scalable APIs & Architecture
-🏢 GitLogix (Feb 2022–2023)    → Junior Python Django Developer — Backend Services & DB Optimization
-```
+<table>
+<tr>
+<td>
+
+#### 🟣 Backend Team Lead — Mobiz IT *(Current)*
+
+Leading backend architecture for enterprise AI-powered platforms. Driving technical decisions, code reviews, and cross-functional delivery.
+
+- Architecting AI-powered accelerator for major banking client
+- Real-time event streaming (SSE), automated PR pipelines
+- FastAPI, SQLAlchemy async, Azure OpenAI, PostgreSQL
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### 🔵 Sr. Python Django Developer — ConfiaTech *(Aug 2023 – Present)*
+
+Lead backend development for scalable, high-availability APIs supporting real-time applications.
+
+- Designed & optimized RESTful APIs (Django + FastAPI)
+- CI/CD pipeline automation — reduced deployment time significantly
+- Cloud services integration (AWS) & containerization (Docker)
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### ⚪ Junior Python Django Developer — GitLogix *(Feb 2022 – Aug 2023)*
+
+Built and maintained backend services, collaborated with frontend teams for full-stack delivery.
+
+- Django + PostgreSQL backend services
+- Automated testing workflows & performance optimization
+- Database query performance tuning
+
+</td>
+</tr>
+</table>
 
 ---
 
