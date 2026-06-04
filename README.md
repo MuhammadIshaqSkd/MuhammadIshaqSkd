@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Ishaq&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Team%20Lead%20|%20Python%20Specialist%20|%20AI-Powered%20Systems&descSize=16&descAlignY=52" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Enterprise+Platforms;FastAPI+%7C+Django+%7C+Flask;AI-Powered+Backend+Systems;Leading+Backend+Architecture;4%2B+Years+Production+Experience" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=650&lines=Building+Scalable+Enterprise+Platforms;FastAPI+%7C+Django+%7C+Flask+%7C+Django+Channels;AI-Powered+Backend+Systems+%7C+LLM+Integration;Leading+Backend+Architecture+%7C+Team+Lead;4%2B+Years+%7C+10%2B+Projects+%7C+Production+Systems" alt="Typing SVG" /></a>
 
 <br><br>
 
@@ -16,13 +16,13 @@
 
 <br>
 
-📍 Islamabad, Pakistan
+📍 Islamabad, Pakistan &nbsp;|&nbsp; 🎓 BSIT — International Islamic University Islamabad
 
 <br>
 
 <img src="https://img.shields.io/badge/Experience-4%2B%20Years-6C63FF?style=flat-square&labelColor=1a1b27"/>
 <img src="https://img.shields.io/badge/Projects-10%2B%20Delivered-6C63FF?style=flat-square&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Role-Team%20Lead-6C63FF?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Role-Backend%20Team%20Lead-6C63FF?style=flat-square&labelColor=1a1b27"/>
 <img src="https://img.shields.io/badge/Company-Mobiz%20IT-6C63FF?style=flat-square&labelColor=1a1b27"/>
 
 </div>
@@ -31,14 +31,24 @@
 
 ### 🚀 About Me
 
-Backend Team Lead building **production-grade AI-powered platforms** for enterprise clients. Currently leading backend architecture for an **AI-powered accelerator** for a major banking client — an end-to-end governed pipeline that transforms business requirements into production-ready code with AI-driven generation, evaluation, and compliance gates.
+Senior Python Backend Engineer & Team Lead with **4+ years** building scalable, reliable, and high-performance backend systems. Specialized in **Python frameworks** (Django, FastAPI, Flask) with strong expertise in **cloud technologies** and **AI-powered systems**.
 
-**Key achievements:**
-- ⚡ Architected real-time event streaming (SSE) infrastructure for live pipeline status updates
-- 🔄 Designed automated PR creation — auto-triggering pull requests on pipeline completion
-- 🗃️ Built PostgreSQL persistence with SQLAlchemy 2.x async, Alembic migrations, repository pattern
-- 🤖 Integrated Azure OpenAI (GPT-4o) for AI-powered code generation and evaluation
-- 👥 Coordinating cross-functional delivery between frontend, AI, and DevOps teams
+Currently leading backend architecture for an **AI-powered accelerator** for a major banking client — an end-to-end governed pipeline that transforms business requirements into production-ready code with AI-driven generation, evaluation, and compliance gates.
+
+<details>
+<summary><b>⚡ Key Achievements (click to expand)</b></summary>
+<br>
+
+- 🏗️ Architected real-time event streaming (SSE) infrastructure for live pipeline status updates across distributed environments
+- 🔄 Designed automated PR creation — auto-triggering pull requests on pipeline completion with idempotency and failure handling
+- 🗃️ Built PostgreSQL persistence layer with SQLAlchemy 2.x async engine, Alembic migrations, and repository pattern
+- 📡 Implemented RESTful APIs using FastAPI with full OpenAPI documentation, structured logging, and correlation-based tracing
+- 🤖 Integrated Azure OpenAI (GPT-4o) for AI-powered code generation and adversarial evaluation across multi-stage pipelines
+- 👥 Coordinated cross-functional delivery between frontend, AI, and DevOps teams
+- 🚀 Implemented and enhanced CI/CD pipelines, significantly reducing deployment time and production downtime
+- 📐 Architected modular and maintainable systems using industry best practices and design patterns
+
+</details>
 
 ---
 
@@ -46,21 +56,26 @@ Backend Team Lead building **production-grade AI-powered platforms** for enterpr
 
 <div align="center">
 
-**Backend & APIs**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Backend Frameworks**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django Channels](https://img.shields.io/badge/Django_Channels-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
-**Database & ORM**
+**Database & Caching**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -75,13 +90,15 @@ Backend Team Lead building **production-grade AI-powered platforms** for enterpr
 ![OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude_API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM_Integration-FF6F00?style=for-the-badge&logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-4B0082?style=for-the-badge&logo=databricks&logoColor=white)
 
-**Tools**
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -89,20 +106,38 @@ Backend Team Lead building **production-grade AI-powered platforms** for enterpr
 
 ### 🏗️ Notable Projects
 
-| Project | Description |
-|---------|-------------|
-| [**Optimefy**](https://optimefy.cloud/) | SEO automation & content optimization platform — intelligent workflows reducing manual tasks |
-| [**Mereos**](https://mereos.eu/) | Digital education & credentialing platform — validates and certifies skills for remote learning |
-| [**VISU Network**](https://visunetwork.io/) | Decentralized marketing ecosystem with unique reward mechanism for global engagement |
-| [**SparkOn**](https://sparkon.org/) | Community-driven knowledge sharing and collaboration platform |
-| [**BotBlogr**](https://botblogr.com/) | AI-assisted blogging platform — generate, edit, and optimize content with intelligent automation |
-| **Asan Kesan** | Agriculture-focused e-commerce for tool rental and product purchases |
+<div align="center">
+
+| Project | Description | Domain |
+|---------|-------------|--------|
+| [**Optimefy**](https://optimefy.cloud/) | SEO automation & content optimization — intelligent workflows reducing manual tasks | SEO / Automation |
+| [**BotBlogr**](https://botblogr.com/) | AI-assisted blogging — generate, edit, and optimize content with AI automation | AI / Content |
+| [**Mereos**](https://mereos.eu/) | Digital education & credentialing — validates and certifies skills for remote learning | EdTech |
+| [**VISU Network**](https://visunetwork.io/) | Decentralized marketing ecosystem with unique reward mechanism | Blockchain / Marketing |
+| [**SparkOn**](https://sparkon.org/) | Community-driven knowledge sharing and collaboration platform | Social / Community |
+| **Asan Kesan** | Agriculture e-commerce — tool rental and product purchases for farmers | AgriTech |
+
+</div>
+
+---
+
+### 💼 Experience
+
+```
+🏢 Mobiz IT (Current)          → Backend Team Lead — AI-Powered Enterprise Platforms
+🏢 ConfiaTech (Aug 2023+)      → Sr. Python Django Developer — Scalable APIs & Architecture
+🏢 GitLogix (Feb 2022–2023)    → Junior Python Django Developer — Backend Services & DB Optimization
+```
 
 ---
 
 <div align="center">
 
 ### 💡 Core Expertise
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,redis,docker,aws,azure,linux,git,nginx&perline=6" />
+
+<br><br>
 
 ```
 API Architecture    │  Microservices    │  Event Streaming (SSE)
@@ -113,6 +148,11 @@ System Design       │  Cloud (Azure/AWS)│  Distributed Systems
 
 <br>
 
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadIshaqSkd&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" width="95%"/>
+
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=MuhammadIshaqSkd&color=6C63FF&style=flat-square&label=Profile+Views" />
 
 <br><br>
@@ -120,6 +160,8 @@ System Design       │  Cloud (Azure/AWS)│  Distributed Systems
 ### 🤝 Let's Connect
 
 <a href="https://www.linkedin.com/in/muhammad-ishaq-05889b19b/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:muhammadishaqskd224@gmail.com"><img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
