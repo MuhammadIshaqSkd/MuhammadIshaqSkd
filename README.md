@@ -106,18 +106,74 @@ Currently leading backend architecture for an **AI-powered accelerator** for a m
 
 ### 🏗️ Notable Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-| Project | Description | Domain |
-|---------|-------------|--------|
-| [**Optimefy**](https://optimefy.cloud/) | SEO automation & content optimization — intelligent workflows reducing manual tasks | SEO / Automation |
-| [**BotBlogr**](https://botblogr.com/) | AI-assisted blogging — generate, edit, and optimize content with AI automation | AI / Content |
-| [**Mereos**](https://mereos.eu/) | Digital education & credentialing — validates and certifies skills for remote learning | EdTech |
-| [**VISU Network**](https://visunetwork.io/) | Decentralized marketing ecosystem with unique reward mechanism | Blockchain / Marketing |
-| [**SparkOn**](https://sparkon.org/) | Community-driven knowledge sharing and collaboration platform | Social / Community |
-| **Asan Kesan** | Agriculture e-commerce — tool rental and product purchases for farmers | AgriTech |
+#### 🔍 [Optimefy](https://optimefy.cloud/)
+**SEO Automation & Content Optimization**
 
-</div>
+Intelligent workflows that reduce repetitive manual tasks for businesses and creators through smart automation.
+
+`Python` `Django` `Celery` `PostgreSQL` `Redis`
+
+</td>
+<td width="50%">
+
+#### 🤖 [BotBlogr](https://botblogr.com/)
+**AI-Assisted Blogging Platform**
+
+Generate, edit, and optimize content with intelligent automation. Built robust backend for high-volume content creation with AI workflow orchestration.
+
+`Python` `FastAPI` `OpenAI` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🎓 [Mereos](https://mereos.eu/)
+**Digital Education & Credentialing**
+
+Validates and certifies skills, improving trust and efficiency in remote learning environments.
+
+`Python` `Django` `AWS` `PostgreSQL`
+
+</td>
+<td width="50%">
+
+#### 🌐 [VISU Network](https://visunetwork.io/)
+**Decentralized Marketing Ecosystem**
+
+Built a unique reward mechanism increasing user engagement and global reach across the platform.
+
+`Python` `Django` `Docker` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 💬 [SparkOn](https://sparkon.org/)
+**Community Knowledge Platform**
+
+Community-driven platform enabling knowledge sharing and collaboration across diverse user groups.
+
+`Python` `Django` `Django Channels` `Redis`
+
+</td>
+<td width="50%">
+
+#### 🌾 Asan Kesan
+**Agriculture E-Commerce**
+
+Simplifies tool rental and product purchases for farmers, boosting operational efficiency in the agriculture sector.
+
+`Python` `Django` `REST API` `PostgreSQL`
+
+</td>
+</tr>
+</table>
 
 ---
 
