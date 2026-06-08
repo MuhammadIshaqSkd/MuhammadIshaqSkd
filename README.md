@@ -211,12 +211,12 @@ Simplifies tool rental and product purchases for farmers, boosting operational e
 <td>
 
 #### 🟣 Backend Team Lead — Mobiz IT *(Current)*
-
-Leading backend architecture for enterprise AI-powered platforms. Driving technical decisions, code reviews, and cross-functional delivery.
-
-- Architecting AI-powered accelerator for major banking client
-- Real-time event streaming (SSE), automated PR pipelines
-- FastAPI, SQLAlchemy async, Azure OpenAI, PostgreSQL
+  - Leading backend architecture for enterprise AI-powered platforms. Driving technical decisions, code reviews, and cross-functional delivery.
+  - Lead backend development for AI-powered enterprise platforms supporting real-time agent orchestration and automation.
+  - Designed and implemented RESTful APIs using FastAPI with SSE streaming, structured logging, and full OpenAPI documentation.
+  - Architected modular backend systems using async SQLAlchemy, Alembic migrations, and clean separation of concerns.
+  - Integrated cloud services (Azure OpenAI, AWS) and containerization (Docker) for scalable deployments.
+  - Coordinated cross-functional delivery between frontend, AI, and DevOps teams across multiple client projects.
 
 </td>
 </tr>
