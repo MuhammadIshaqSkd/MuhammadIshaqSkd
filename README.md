@@ -137,12 +137,14 @@ languages: [English, Urdu, Balti]
 <table>
 <tr>
 <td width="50%">
-  ####Sanofi Nexus
- AI-powered infrastructure automation platform — ServiceNow CMDB, agent orchestration, real-time streaming | FastAPI, Claude SDK, MCP, AG-UI 
+  #### Sanofi Nexus
+   AI-powered infrastructure automation platform — ServiceNow CMDB, agent orchestration, real-time streaming
+   **FastAPI, Claude SDK, MCP, AG-UI 
  </td>
 <td width="50%">
-####Bank Al Bilad T24 Accelerator
- AI delivery pipeline for T24 banking — generates HLD, LLD, test cases, and code from BRDs with quality gates | FastAPI, Azure OpenAI, PostgreSQL 
+#### Bank Al Bilad T24 Accelerator
+   AI delivery pipeline for T24 banking — generates HLD, LLD, test cases, and code from BRDs with quality gates 
+   **FastAPI, Azure OpenAI, PostgreSQL 
 </td>
  </tr>
 
